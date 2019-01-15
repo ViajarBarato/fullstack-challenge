@@ -20,7 +20,7 @@ Crie um arquivo `dissertacao.txt` na raiz do seu repositório, dentro deste arqu
 
 - Você deve criar uma WEB API RESTFull utilizando C# que irá consumir os métodos de [https://swapi.co/](https://swapi.co/documentation), você deve decidir com base nas necessidades do software e documentação do [https://swapi.co/](https://swapi.co/documentation) quais métodos serão necessários o encapsulamento.
 
-- Você deve criar uma Página utilizando Angular@5+, que será responsável por efetuar a busca de personagens e listar os nomes dos personagens se uma terminada espécie.
+- Você deve criar uma Página utilizando Angular@5+, que será responsável por efetuar a busca de personagens e listar os nomes dos personagens de uma determinada espécie.
 
 - O Filtro de busca da página será composto por um campo onde o usuário irá digitar a espécie, esse campo deve ser do tipo typeahead search com uma pesquisa da esquerda para direita, onde conforme a digitação do usuário os termos compatíveis são exibidos em um Dropbox, os termos gerados no typeahead. Além de exibir do nome da espécie compatível com o termo o nome do planeta natal "homeworld.name" deve ser apresentado. 
 **Exemplo**: *Usuário digita: `Hum` > Aplicação Apresenta: [`Human (Coruscant)`]*
@@ -40,7 +40,7 @@ Abaixo um exemplo de como sua aplicação deve se parecer. `challenge-mock-wiref
 ![alt text](http://www.viajarbarato.com.br/images/challenge/challenge-mock-wireframe.jpg)
 
 ## Sua aplicação DEVE:
-* Deve autenticar o acesso aos métodos anônimos da aplicação Angular ao Backend C# utilizado OAuth2 Client credentials;
+* Autenticar o acesso aos métodos anônimos da aplicação Angular ao Backend C# utilizado OAuth2 Client credentials;
 * No filtro de espécies utilizar um componente de Typeahead;
 * Utilizar .Net Framework 4+ ou .NET Core 1.1+;
 * Utilizar Angular@5+;
@@ -48,20 +48,19 @@ Abaixo um exemplo de como sua aplicação deve se parecer. `challenge-mock-wiref
 * Pode utilizar [IdentityServer4](http://docs.identityserver.io/en/latest/);
 
 ## Sua aplicação NÃO DEVE:
-* Não deve importar pacotes de auxílio do swapi.co.
-* A página angular não deve acessar a swapi.co diretamente.
+* Importar pacotes de auxílio do swapi.co.
+* Acessar a swapi.co diretamente via interface angular.
 
 ## Quer mostrar mais de seu potencial:
-* Faça uso correto do System.Threading.Tasks;
+* Faça uso correto da programação paralela;
 * Efetue uma implementação de Cache;
 * Siga os conceitos de OOP e SOLID;
 * Utilize ao menos duas das design patterns da OOP;
 * Efetue commits atômicos;
 * Inclua documentação por comentários;
-* Utilize AsyncPipe em sua página angular;
-* Implemente o conceito de piping em suas subscrições;
-* Utilize quando necessário o método switchMap;
-* Implemente a paginação de itens com Observables;
+* Utilize dutos assíncronos;
+* Implemente o conceito de dutos em suas subscrições;
+* Utilize quando necessário a composicao de mapaeamento ou troca de mapeamento;
 
 ## Avaliação
 Seu projeto será avaliado de acordo com os seguintes critérios. 
