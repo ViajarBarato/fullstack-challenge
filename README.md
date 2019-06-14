@@ -124,7 +124,7 @@ Fazem parte de nossa Stack: .NET Core 2+, .NET Framework 4+, Angular@5+, RabbitM
 Apoiamos e respeitamos a diversidade independente de raça, etnia, orientação sexual, gênero, idade, nacionalidade, crença ou deficiência.
 
 ### Localização
-Estamos localizados no centro de São Paulo proximo a nós temos: 
+Estamos localizados no centro de São Paulo, proximo a nós temos: 
 * :station: Metrô Sé, Anhangabaú e São Bento. 
 * :computer: Rua Santa Ifigênia
 * :metal: Galeria do Rock
