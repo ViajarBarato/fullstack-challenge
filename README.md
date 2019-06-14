@@ -124,7 +124,11 @@ Fazem parte de nossa Stack: .NET Core 2+, .NET Framework 4+, Angular@5+, RabbitM
 Apoiamos e respeitamos a diversidade independente de raça, etnia, orientação sexual, gênero, idade, nacionalidade, crença ou deficiência.
 
 ### Localização
-Estamos localizados no centro de São Paulo, próximo as estações de Metrô, Sé, Anhangabaú e São Bento. Da pra ir na Santa Ifigênia, Galeria do Rock :metal: e Shopping Light a pé - :grinning:.
+Estamos localizados no centro de São Paulo proximo a nós temos: 
+* :station: Metrô Sé, Anhangabaú e São Bento. 
+* :computer: Rua Santa Ifigênia
+* :metal: Galeria do Rock
+* :hamburger: Shopping Light 
 
 **Venha! Junte-se a nós!**
-:muscle::sunglasses::computer::beers:
+:airplane::heart_eyes::coffee::computer::headphones::hocho::skull:
