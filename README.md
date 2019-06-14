@@ -1,6 +1,6 @@
 ![alt text](http://www.viajarbarato.com.br/images/challenge/logo-vb.png)
 
-# Desafio para candidatos à vaga de desenvolvedor Full Stack (Vaga Presencial)
+# Desafio para candidatos à vaga de desenvolvedor (Vaga Presencial)
 A ideia deste desafio é nos permitir avaliar melhor as habilidades de candidatos à vagas de programador, de vários níveis.
 Este desafio deve ser feito por você em sua casa. Gaste o tempo que você quiser, porém normalmente você não deve precisar de mais do que algumas horas.
 > Este é um desafio com vaga em aberto qualquer um pode participar.
@@ -9,7 +9,7 @@ Este desafio deve ser feito por você em sua casa. Gaste o tempo que você quise
 1. Primeiro, faça um fork deste projeto para sua conta no GitHub (crie uma se você não possuir).
 2. Em seguida, implemente o projeto tal qual descrito abaixo, em seu próprio fork.
 3. Crie as instruções de instalação e execução do aplicativo em seu `readme.md`.
-4. Por fim, envie o link do seu repositório público para avaliarmos seu código para o email [marco.faustino@viajarbarato.com.br](marco.faustino@viajarbarato.com.br)
+4. Por fim, envie o link do seu repositório público para avaliarmos seu código para o e-mail [marco.faustino@viajarbarato.com.br](marco.faustino@viajarbarato.com.br)
 
 ## Dissertação sobre arquitetura de solução
 Crie um arquivo `dissertacao.txt` na raiz do seu repositório, dentro deste arquivo você deve dissertar sobre o seguinte tema:
@@ -61,8 +61,37 @@ Abaixo um exemplo de como sua aplicação deve se parecer. `challenge-mock-wiref
 * Inclua documentação por comentários;
 * Utilize dutos assíncronos;
 * Implemente o conceito de dutos em suas subscrições;
-* Utilize quando necessário a composicao de mapaeamento ou troca de mapeamento;
+* Utilize quando necessário a composição de mapaeamento ou troca de mapeamento;
 * Autenticar o acesso aos métodos anônimos da aplicação Angular ao Backend C# utilizado OAuth2 Client credentials;
+
+## Conhecimentos que procuramos no candidato: 
+* Desenvolvimento orientado a objeto 
+* C# 5+
+* .NET Framework 4+
+* Integrações RESTFull
+* HTML 
+* CSS 
+* Pré-processadores de Estilo
+* Javascript
+* ASP.net MVC (Razor Engine) 
+* Banco de dados SQL Server 
+* Git Source Control 
+* Desenvolvimento orientado a testes (TDD) 
+
+## Conhecimentos do candidato que fazem a diferença: 
+* C# Async Framework 
+* Entity Framework Core
+* .NET Core 2 ou superior 
+* Angular 5+
+* Typescript 3+ 
+* Docker 
+* Banco de dados não relacional MongoDB 
+* AMQP RabbitMQ – Queues
+* Banco de dados não relacional Redis
+* Programação Reativa
+* Linux
+* Kubernetes
+* Continuous integration e continuous delivery (CI/CD) 
 
 ## Avaliação
 Seu projeto será avaliado de acordo com os seguintes critérios. 
@@ -74,16 +103,28 @@ Seu projeto será avaliado de acordo com os seguintes critérios.
 5. Você segue as boas práticas de programação e entrega para o Cliente;
 6. O código escrito é fácil de entender e manter;
 7. Você se preocupa com o uso do aplicativo pelo Usuário;
+8. Você executou o teste em um prazo máximo de 9 dias a contar da data do fork.
 
 > Tentaremos verificar a sua familiarização com as bibliotecas padrões (standard libs), bem como sua experiência com programação orientada a objetos a partir da estrutura de seu projeto, preocupação com o objetivo da aplicação e do seu uso pelo usuário, suporte e manutenção do código por outros desenvolvedores.
 
+### Processo de feedback do teste
+Após a entrega do link do códido fonte do projeto no GitHub, efetuaremos a análise da entrega, normalmente em até 36 horas úteis teremos o resultado da análise.
+
+Em caso positivo será iniciada a segunda faze de avaliação onde acontecerá uma entrevista com a equipe, onde o candidato irá apresentar o projeto que construiu e detalhar quais técnicas ele utilizou e porque.
+
+Caso haja necessidade agendaremos uma entrevista presencial.
+
 ## Um pouco mais de como é trabalhar com a gente
 Somos uma empresa de turismo com mais de 7 anos de atuação.
-Estamos em processo de modernização de nossa Stack de desenvolvimento, implementando arquiteturas escaláveis utilizando containers e microserviços.
-Fazem parte de nossa Stack: .NET Core 2+, .NET Full Framework, Angular@5+, RabbitMQ, Docker, Kubernetes, Linux, MongoDB, MSSql Server, Typescript.
+
+Estamos em processo de modernização de nossa Stack de desenvolvimento, implementando arquiteturas escaláveis utilizando containers e micro-serviços.
+
+Fazem parte de nossa Stack: .NET Core 2+, .NET Framework 4+, Angular@5+, RabbitMQ, Docker, Kubernetes, Linux, MongoDB, MSSql Server, Typescript.
+
 Apoiamos e respeitamos a diversidade independente de raça, etnia, orientação sexual, gênero, idade, nacionalidade, crença ou deficiência.
 
-### Localizaçao
-Estamos localizados no centro de São Paulo, proximo as estações de Metrô, Sé, Anhangabaú e São Bento. Da pra ir na Santa Ifigênia, Galeria do Rock e Shopping Light a pé.
+### Localização
+Estamos localizados no centro de São Paulo, próximo as estações de Metrô, Sé, Anhangabaú e São Bento. Da pra ir na Santa Ifigênia, Galeria do Rock :metal: e Shopping Light a pé - :grinning:.
 
-Venha! Junte-se a nós!
+**Venha! Junte-se a nós!**
+:muscle::sunglasses::computer::beers:
