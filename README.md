@@ -131,4 +131,4 @@ Estamos localizados no centro de São Paulo, proximo a nós temos:
 * :hamburger: Shopping Light 
 
 **Venha! Junte-se a nós!**
-:airplane::heart_eyes::coffee::computer::headphones::hocho::skull:
+:airplane::heart_eyes::coffee::computer::headphones::hocho::skull::rainbow::wheelchair:
